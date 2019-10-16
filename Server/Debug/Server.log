@@ -1,0 +1,35 @@
+﻿生成启动时间为 2018/12/23 17:22:56。
+     1>项目“D:\大三上课件\综合实践\期末\NetGameBianyiBian\Server\Server.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Microsoft Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ADO.cpp Game.cpp TCPServer.cpp WinMain.cpp
+         WinMain.cpp
+         TCPServer.cpp
+         Game.cpp
+     1>d:\大三上课件\综合实践\期末\netgamebianyibian\server\game.cpp(22): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\microsoft visual studio 2013\vc\include\string.h(284) : 参见“wcscat”的声明
+     1>d:\大三上课件\综合实践\期末\netgamebianyibian\server\game.cpp(23): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\microsoft visual studio 2013\vc\include\string.h(284) : 参见“wcscat”的声明
+     1>d:\大三上课件\综合实践\期末\netgamebianyibian\server\game.cpp(66): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\microsoft visual studio 2013\vc\include\string.h(294) : 参见“wcscpy”的声明
+     1>d:\大三上课件\综合实践\期末\netgamebianyibian\server\game.cpp(107): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\microsoft visual studio 2013\vc\include\string.h(294) : 参见“wcscpy”的声明
+     1>d:\大三上课件\综合实践\期末\netgamebianyibian\server\game.cpp(134): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\microsoft visual studio 2013\vc\include\string.h(294) : 参见“wcscpy”的声明
+     1>d:\大三上课件\综合实践\期末\netgamebianyibian\server\game.cpp(140): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\microsoft visual studio 2013\vc\include\string.h(294) : 参见“wcscpy”的声明
+     1>d:\大三上课件\综合实践\期末\netgamebianyibian\server\game.cpp(194): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\microsoft visual studio 2013\vc\include\string.h(294) : 参见“wcscpy”的声明
+         ADO.cpp
+         正在生成代码...
+       Link:
+         E:\Microsoft Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\大三上课件\综合实践\期末\NetGameBianyiBian\Debug\Server.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\大三上课件\综合实践\期末\NetGameBianyiBian\Debug\Server.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"D:\大三上课件\综合实践\期末\NetGameBianyiBian\Debug\Server.lib" /MACHINE:X86 /SAFESEH Debug\ADO.obj
+         Debug\Game.obj
+         Debug\TCPServer.obj
+         Debug\WinMain.obj
+     1>ADO.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         Server.vcxproj -> D:\大三上课件\综合实践\期末\NetGameBianyiBian\Debug\Server.exe
+     1>已完成生成项目“D:\大三上课件\综合实践\期末\NetGameBianyiBian\Server\Server.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.31

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="LoginUI.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Tetris.cpp" />
+    <ClCompile Include="Framework\AnimationSprite.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\Game.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\Input.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\ResourcesPool.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\Sprite.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\SpritesManager.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\TextSprite.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\TextSpriteManager.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPClient.cpp">
+      <Filter>Net</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalData.cpp" />
+    <ClCompile Include="Framework\SpriteButton.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="StartUI.cpp" />
+    <ClCompile Include="WasteSortingGame.cpp" />
+    <ClCompile Include="RankingList.cpp" />
+    <ClCompile Include="Framework\XAudio2SoundPlayer.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LoginUI.h" />
+    <ClInclude Include="Tetris.h" />
+    <ClInclude Include="Framework\AnimationSprite.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Game.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Helper.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Input.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\ResourcesPool.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Sprite.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\SpritesManager.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\TextSprite.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\TextSpriteManager.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>Net</Filter>
+    </ClInclude>
+    <ClInclude Include="TCPClient.h">
+      <Filter>Net</Filter>
+    </ClInclude>
+    <ClInclude Include="MsgDefine.h">
+      <Filter>Net</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalData.h" />
+    <ClInclude Include="Framework\SpriteButton.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="StartUI.h" />
+    <ClInclude Include="WasteSortingGame.h" />
+    <ClInclude Include="RankingList.h" />
+    <ClInclude Include="Framework\XAudio2SoundPlayer.h">
+      <Filter>Framework</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Framework">
+      <UniqueIdentifier>{e1042192-6538-4f78-a71e-1c363ea050dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Net">
+      <UniqueIdentifier>{7018bdec-3fa1-44f5-b035-4ddc3daee358}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

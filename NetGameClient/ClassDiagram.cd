@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAnimationSprite" Collapsed="true">
+    <Position X="3.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAIQCQAgAAAAAAABEAAWUIAgIAogAAAIoAARA=</HashCode>
+      <FileName>Framework\AnimationSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGame" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hYQAAIAABFEACAGAABAgcAGAABQwAAQCAHYCEMYAAgA=</HashCode>
+      <FileName>Framework\Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInput" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECEIAGAGMAAAIACAAAABBABBAxABgAAGAACUAAAAQ=</HashCode>
+      <FileName>Framework\Input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CResourcesPool" Collapsed="true">
+    <Position X="23.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAABAAAAACQIABABAAIICAAQgCBAAAAA=</HashCode>
+      <FileName>Framework\ResourcesPool.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSprite" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>DIUQAACCEQAakhQgSgVIAEhg0CAEKESYQNgQAlRSAJA=</HashCode>
+      <FileName>Framework\Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSpriteButton" Collapsed="true">
+    <Position X="25.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAJBACAAAEAACAAAAAAACAIACAAAAACAgA=</HashCode>
+      <FileName>Framework\SpriteButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSpritesManager" Collapsed="true">
+    <Position X="27" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQQBAAAAAAAAAAAAEAAAAAABABBAAACIBAggRCAABA=</HashCode>
+      <FileName>Framework\SpritesManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextSprite" Collapsed="true">
+    <Position X="21.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goAAAAACAACIEAAKAIAIAAAAABAAABIAAFgAAFIAEAA=</HashCode>
+      <FileName>Framework\TextSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextSpriteManager" Collapsed="true">
+    <Position X="23.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAAAAAAAgABAAAAAAABABAACIAABAAARIEABA=</HashCode>
+      <FileName>Framework\TextSpriteManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTCPClient" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABEAAAEAAAAQAgAAAAAQEAAAAIAIERBCEAAA=</HashCode>
+      <FileName>TCPClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBlock" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAABAA=</HashCode>
+      <FileName>BlockManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBlockCouple" Collapsed="true">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlockManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBlockManager" Collapsed="true">
+    <Position X="27" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQgAAAAAAIAgAQAgAAQAAAAIAAABAAAABAAAAgQCA=</HashCode>
+      <FileName>BlockManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlobalData" Collapsed="true">
+    <Position X="23.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEABABAAAAAAAAECgAAAAA=</HashCode>
+      <FileName>GlobalData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginUI" Collapsed="true">
+    <Position X="25.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEACAAAgBAAAAAAAIAAAACEAAAQCAQICAABAAAA=</HashCode>
+      <FileName>LoginUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartUI" Collapsed="true">
+    <Position X="27" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAApAAAAAAIAAACQAEAAAEABACAAAAAAABESAAAAAAA=</HashCode>
+      <FileName>StartUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTetris" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkQAQAAIAAEAAADIAAEAwAEKEQAEAQAYEFoAAYBAAgA=</HashCode>
+      <FileName>Tetris.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WasteSortingGame" Collapsed="true">
+    <Position X="25.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAYAAAgpAUBABQkQIAYABAAQAAAAAAAAHAICAoAA=</HashCode>
+      <FileName>WasteSortingGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="tagResDesc" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAABACAAAAEABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\ResourcesPool.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PlayerInfo" Collapsed="true">
+    <Position X="21.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAACAIAAAAAAAACAIAAAAAAAAIAQAAABAAA=</HashCode>
+      <FileName>MsgDefine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Msg_Generic" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAAAA=</HashCode>
+      <FileName>MsgDefine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Msg_Timer" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>MsgDefine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Msg_Score" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>MsgDefine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Msg_State" Collapsed="true">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAQAAAAAAA=</HashCode>
+      <FileName>MsgDefine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Msg_Chat" Collapsed="true">
+    <Position X="19.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAgAAIAAAAAAAAA=</HashCode>
+      <FileName>MsgDefine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Msg_Test" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>MsgDefine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Msg_Player" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MsgDefine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Msg_Player_Delete" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>MsgDefine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Msg_Login" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MsgDefine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Msg_Game_Info" Collapsed="true">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>MsgDefine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Waste" Collapsed="true">
+    <Position X="23.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>WasteSortingGame.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="ResDesc" Collapsed="true">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\ResourcesPool.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PResDesc" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\ResourcesPool.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="ResourceType" Collapsed="true">
+    <Position X="23.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Framework\ResourcesPool.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ButtonState" Collapsed="true">
+    <Position X="23.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\SpriteButton.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PLAYER_STATE" Collapsed="true">
+    <Position X="21.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIQCAAAAAAAAAAAAQCAA=</HashCode>
+      <FileName>MsgDefine.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BlockType" Collapsed="true">
+    <Position X="21.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACyFAAE=</HashCode>
+      <FileName>BlockManager.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GAME_STATE" Collapsed="true">
+    <Position X="27" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAACAAAgAAAA=</HashCode>
+      <FileName>Tetris.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
